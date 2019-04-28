@@ -6,7 +6,7 @@ Git-Repo-Analyzer automatically obtains fixes to the source code that developers
 
 ## Getting Started
 
-----------
+---------
 
 ### Prerequisites
 
